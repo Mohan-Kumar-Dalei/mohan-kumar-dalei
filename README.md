@@ -22,13 +22,18 @@ I absolutely **love development 💻❤️** and enjoy turning creative ideas in
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://x.com/ll_BICKY_ll?t=-aJMg9HTI3LdPRjNnf7rew&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack  
+
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+
+---
 
 ### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
