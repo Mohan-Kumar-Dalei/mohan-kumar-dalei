@@ -1,30 +1,19 @@
-# 👋 Hi, I’m Mohan Kumar Dalei  
+# 👋 Hi, I'm Mohan Kumar Dalei  
 
-🚀 **Aspiring MERN Full Stack Developer** | 💻 Web Development Enthusiast | 🌱 Always Learning  
-
-I’m currently preparing for a career as a **Full Stack Developer** using the **MERN stack**.  
-I enjoy building clean, scalable, and user-friendly applications while exploring the latest web technologies.  
+🚀 Aspiring **MERN Full Stack Developer** | 💡 Passionate about building scalable web applications and exploring new technologies.  
+🌱 Currently preparing and working on exciting projects to sharpen my development skills.  
 
 ---
 
-## 📊 Profile Stats  
+## 🔗 Connect with Me  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohan-kumar-dalei&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>  
-  <img src="https://img.shields.io/github/followers/mohan-kumar-dalei?label=Followers&style=social" alt="Followers"/>  
-  <img src="https://img.shields.io/github/stars/mohan-kumar-dalei?label=Stars&style=social" alt="Stars"/>  
-</p>
-
----
-
-## ⚡ About Me  
-- 🌐 Preparing to become a **MERN Full Stack Developer**  
-- 🛠️ Hands-on with frontend & backend projects  
-- 🔐 Interested in authentication, REST APIs & scalable apps  
-- 📚 Exploring AI tools like **Gemini** & **ChatGPT** for productivity  
-- 🎯 Goal: Build impactful projects & contribute to open source  
+- 📧 **Email**: [mohankumardalei2001@gmail.com](mailto:mohankumardalei2001@gmail.com)  
+- 💼 **LinkedIn**: [Mohan Kumar Dalei](https://www.linkedin.com/in/mohan-kumar-dalei)  
+- 🌐 **Portfolio**: [mohankumardalei-portfolio.netlify.app](https://mohankumardalei-portfolio.netlify.app)  
+- ⭐ **GitHub**: [Follow @Mohan-Kumar-Dalei](https://github.com/Mohan-Kumar-Dalei?tab=followers)  
 
 ---
+
 ## 🛠️ Tech Stack  
 
 <table>
@@ -73,49 +62,27 @@ I enjoy building clean, scalable, and user-friendly applications while exploring
 
 ---
 
-## 📈 GitHub Achievements & Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohan-kumar-dalei&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-kumar-dalei&theme=radical" alt="GitHub Streak" height="150"/>  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-kumar-dalei&layout=compact&theme=radical" alt="Top Languages" height="150"/>  
-</p>
-
----
-
 ## 📌 Pinned Projects  
 
+- [ApexUI](https://github.com/Mohan-Kumar-Dalei/ApexUI) – Modern UI components for faster development.  
+- [AI-Powered-Captioner-Frontend](https://github.com/Mohan-Kumar-Dalei/AI-Powered-Captioner-Frontend) – AI tool to generate captions from uploaded images.  
+- [ApexOS](https://github.com/Mohan-Kumar-Dalei/ApexOS) – A custom OS-like web-based interface project.  
+
+---
+
+## 📊 GitHub Stats & Achievements  
+
 <p align="center">
-  <a href="https://github.com/Mohan-Kumar-Dalei/ApexUI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohan-kumar-dalei&repo=ApexUI&theme=radical" />
-  </a>
-  <a href="https://github.com/Mohan-Kumar-Dalei/AI-Powered-Captioner-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohan-kumar-dalei&repo=AI-Powered-Captioner-Frontend&theme=radical" />
-  </a>
-  <a href="https://github.com/Mohan-Kumar-Dalei/ApexOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohan-kumar-dalei&repo=ApexOS&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-Dalei&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan-Kumar-Dalei&theme=radical" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohan-Kumar-Dalei&theme=radical" />
 </p>
 
 ---
 
-## 📫 Connect With Me  
+## ✨ Quote  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohan-kumar-dalei?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://mohankumardalei-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="mailto:mohankumardalei2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-✨ *“Code is not a riddle 🤔, it feels better when you can explain it clearly 🗣️💡”*
+*“Code is not a riddle 🤔, it feels better when you can explain it clearly 🗣️💡”*
