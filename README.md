@@ -1,18 +1,33 @@
-# 👋 Hi, I'm Mohan Kumar Dalei  
+## 👋 About Me  
 
-🚀 Aspiring **MERN Full Stack Developer** | 💡 Passionate about building scalable web applications and exploring new technologies.  
-🌱 Currently preparing and working on exciting projects to sharpen my development skills.  
+Hi! I’m **Mohan Kumar Dalei**.  
+I am currently preparing for **MERN Full Stack Development** and actively improving my skills in **React, Node.js, Express.js, MongoDB** and related technologies.  
+I absolutely **love development 💻❤️** and enjoy turning creative ideas into real-world applications.  
+
+---
+
+## 🔗 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohan-kumar-dalei?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://mohankumardalei-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="mailto:mohankumardalei2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ll_b._.i._.c._.k._.y_ll?igsh=MXZlbXNqMnEzMTl6cg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/ll_BICKY_ll?t=-aJMg9HTI3LdPRjNnf7rew&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🔗 Connect with Me  
-
-- 📧 **Email**: [mohankumardalei2001@gmail.com](mailto:mohankumardalei2001@gmail.com)  
-- 💼 **LinkedIn**: [Mohan Kumar Dalei](https://www.linkedin.com/in/mohan-kumar-dalei)  
-- 🌐 **Portfolio**: [mohankumardalei-portfolio.netlify.app](https://mohankumardalei-portfolio.netlify.app)  
-- ⭐ **GitHub**: [Follow @Mohan-Kumar-Dalei](https://github.com/Mohan-Kumar-Dalei?tab=followers)  
-
----
 ## 🛠️ Tech Stack  
 
 ### 🎨 Frontend  
@@ -43,7 +58,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)  
+
 ---
 
 ## 📌 Pinned Projects  
