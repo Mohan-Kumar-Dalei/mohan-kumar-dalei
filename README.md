@@ -24,7 +24,7 @@
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-<a href="https://x.com/ll_BICKY_ll" target="_blank" style="display: inline-block; background-color: #000000; border-radius: 8px; padding: 5px 7px;">
+<a href="https://x.com/ll_BICKY_ll" target="_blank" style="color:'#fff'">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="X"/>
 </a>
   &nbsp;&nbsp;&nbsp;
