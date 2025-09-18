@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 <a href="https://x.com/ll_BICKY_ll" target="_blank" style="display: inline-block; background-color: #000000; border-radius: 8px; padding: 5px 7px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/x/x-original.svg" height="40" alt="X"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="X"/>
 </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ll_b._.i._.c._.k._.y_ll" target="_blank">
