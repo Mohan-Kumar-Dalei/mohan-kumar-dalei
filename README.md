@@ -13,19 +13,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohan-kumar-dalei" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mohankumardalei-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139" height="40" alt="Portfolio"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mohankumardalei2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ll_BICKY_ll" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="X"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ll_b._.i._.c._.k._.y_ll" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
   </a>
 </p>
 
