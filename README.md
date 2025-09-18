@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ll_BICKY_ll" target="_blank">
-     <img src="https://cdn.simpleicons.org/X/#000000" height="40" alt="Email"/>
+     <img src="https://cdn.simpleicons.org/X/000000" height="40" alt="X"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ll_b._.i._.c._.k._.y_ll" target="_blank">
