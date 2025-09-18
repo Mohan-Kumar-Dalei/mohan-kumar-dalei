@@ -1,15 +1,18 @@
-## 👋 About Me  
+<h1 align="center">Hi 👋, I'm Mohan Kumar Dalei</h1>
+<h3 align="center">A passionate MERN Stack Developer turning ideas into reality 💻❤️</h3>
 
-Hi! I’m **Mohan Kumar Dalei**.  
-I am currently preparing for **MERN Full Stack Development** and actively improving my skills in **React, Node.js, Express.js, MongoDB** and related technologies.  
-I absolutely **love development 💻❤️** and enjoy turning creative ideas into real-world applications.  
+<br>
+
+<p align="center">
+  <em>Currently building cool things with <strong>React, Node.js, Express.js, & MongoDB</strong> and constantly sharpening my skills. I love bringing creative concepts to life through code.</em>
+</p>
 
 ---
 
-## 🔗 Connect With Me  
+### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohan-kumar-dalei?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/mohan-kumar-dalei" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://mohankumardalei-portfolio.netlify.app" target="_blank">
@@ -18,78 +21,72 @@ I absolutely **love development 💻❤️** and enjoy turning creative ideas in
   <a href="mailto:mohankumardalei2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/ll_b._.i._.c._.k._.y_ll?igsh=MXZlbXNqMnEzMTl6cg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/ll_BICKY_ll?t=-aJMg9HTI3LdPRjNnf7rew&s=09" target="_blank">
+  <a href="https://x.com/ll_BICKY_ll" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/ll_b._.i._.c._.k._.y_ll" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ My Tech Stack
 
-### 🎨 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-</p>
-
----
-
-### ⚙️ Backend  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
----
-
-### 💻 Languages  
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" />
-</p>
-
----
-
-### 🗄️ Database  
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-### 🛠️ Tools & Platforms  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">🎨 Frontend</h4>
+      <p align="center">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> </a>
+        <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gsap-icon.svg" alt="gsap" width="45" height="45"/> </a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4 align="center">⚙️ Backend & Database</h4>
+      <p align="center">
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
+         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <h4 align="center">🛠️ Tools & Platforms</h4>
+      <p align="center">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
+        <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/> </a>
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> </a>
+        <a href="https://cursor.sh/" target="_blank" rel="noreferrer"> <img src="https://cursor.sh/brand/logo.svg" alt="cursor" width="45" height="45"/> </a>
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📌 Pinned Projects  
+### 🚀 Pinned Projects
 
-- [ApexUI](https://github.com/Mohan-Kumar-Dalei/ApexUI) – Modern UI components for faster development.  
-- [AI-Powered-Captioner-Frontend](https://github.com/Mohan-Kumar-Dalei/AI-Powered-Captioner-Frontend) – AI tool to generate captions from uploaded images.  
-- [ApexOS](https://github.com/Mohan-Kumar-Dalei/ApexOS) – A custom OS-like web-based interface project.  
+-   **[ApexUI](https://github.com/Mohan-Kumar-Dalei/ApexUI)** – Modern UI components for faster development.
+-   **[AI-Powered-Captioner-Frontend](https://github.com/Mohan-Kumar-Dalei/AI-Powered-Captioner-Frontend)** – An AI tool to generate captions from uploaded images.
+-   **[ApexOS](https://github.com/Mohan-Kumar-Dalei/ApexOS)** – A custom OS-like web-based interface project.
 
 ---
 
-## 📊 GitHub Stats & Achievements  
+### 📊 My GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-Dalei&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan-Kumar-Dalei&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-Dalei&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan-Kumar-Dalei&theme=radical&hide_border=true" height="170em" />
 </p>
 
 <p align="center">
@@ -98,6 +95,8 @@ I absolutely **love development 💻❤️** and enjoy turning creative ideas in
 
 ---
 
-## ✨ Quote  
+### ✨ My Favorite Quote
 
-*“Code is not a riddle 🤔, it feels better when you can explain it clearly 🗣️💡”*
+<p align="center">
+  > <em>“Code is not a riddle 🤔, it feels better when you can explain it clearly 🗣️💡”</em>
+</p>
