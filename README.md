@@ -15,19 +15,19 @@
   <a href="https://www.linkedin.com/in/mohan-kumar-dalei" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mohankumardalei-portfolio.netlify.app" target="_blank">
     <img src="https://cdn.simpleicons.org/clubhouse/FFE450" height="40" alt="Portfolio"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mohankumardalei2001@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ll_BICKY_ll" target="_blank">
      <img src="https://cdn.simpleicons.org/X/fff" height="40" alt="X"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ll_b._.i._.c._.k._.y_ll" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
   </a>
