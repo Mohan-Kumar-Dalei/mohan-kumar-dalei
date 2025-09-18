@@ -24,7 +24,7 @@
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/ll_BICKY_ll" target="_blank" style="backgroundColor:"#00000">
+  <a href="https://x.com/ll_BICKY_ll" target="_blank" style="backgroundColor:"#000000">
      <img src="https://cdn.simpleicons.org/X/fff" height="40" alt="X"/>
   </a>
   &nbsp;&nbsp;&nbsp;
