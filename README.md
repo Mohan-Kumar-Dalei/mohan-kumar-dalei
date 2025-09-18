@@ -24,9 +24,9 @@
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/ll_BICKY_ll" target="_blank" style="backgroundColor:'#E7282D'">
-     <img src="https://cdn.simpleicons.org/X/fff" height="40" alt="X"/>
-  </a>
+<a href="https://x.com/ll_BICKY_ll" target="_blank" style="display: inline-block; background-color: #000000; border-radius: 8px; padding: 5px 7px;">
+   <img src="https://cdn.simpleicons.org/X/fff" height="40" alt="X"/>
+</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ll_b._.i._.c._.k._.y_ll" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
