@@ -17,7 +17,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mohankumardalei-portfolio.netlify.app" target="_blank">
-    <img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139" height="40" alt="Portfolio"/>
+    <img src="https://cdn.simpleicons.org/clubhouse/FFE450" height="40" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:mohankumardalei2001@gmail.com">
