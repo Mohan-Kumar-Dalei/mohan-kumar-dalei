@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#f0b100&height=150&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F0B100&height=150&section=header&animation=twinkling" width="100%"/>
 
 # Hi 👋, I'm Mohan Kumar Dalei
 
@@ -22,7 +22,7 @@
 ## 🎯 2026 Vision & Core Focus
 
 - 🚀 **Full-Stack Mastery:** Architecting robust, high-performance web applications using the MERN stack with scalable backend logic.
-- 🤖 **Advanced AI Ecosystems:** Integrating next-gen LLMs (like Google Gemini) with seamless fallback strategies, and building interactive, voice-driven AI agents.
+- 🤖 **Advanced AI Ecosystems:** Integrating next-gen LLMs (like Google Gemini) with seamless fallback strategies, and building interactive AI agents.
 - ⚡ **Cinematic UI/UX Engineering:** Crafting ultra-modern, "Linear-inspired" dark interfaces with glowing aesthetics and fluid, GSAP-powered micro-animations.
 - 🖥️ **Desktop Native Experiences:** Bridging the gap between the browser and the OS by building powerful native desktop tools using technologies like Electron.
 
@@ -52,7 +52,7 @@
 <summary><b>🖥️ Desktop & Tools</b></summary>
 <br>
   
-[![Tools](https://skillicons.dev/icons?i=electron,java,git,github,postman,vscode&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=electron,git,github,postman,vscode&theme=dark)](https://skillicons.dev)
 
 </details>
 
@@ -72,11 +72,6 @@
 
 <div align="center">
 
- <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-Dalei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Kumar-Dalei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-
-  <br><br>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan-Kumar-Dalei&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohan-Kumar-Dalei&theme=tokyonight&bg_color=0D1117" width="48%" />
 
@@ -94,5 +89,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#f0b100&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F0B100&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
