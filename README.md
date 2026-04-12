@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#f0b100&height=150&section=header&animation=twinkling" width="100%"/>
 
 # Hi 👋, I'm Mohan Kumar Dalei
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN;Building+Cinematic+User+Interfaces;AI+Integration+Enthusiast;Desktop+App+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN;Crafting+Cinematic+User+Interfaces;AI+%26+LLM+Integration+Enthusiast;Building+Web+%26+Desktop+Apps" alt="Typing SVG" /></a>
 
 *Crafting scalable web applications, integrating intelligent AI models, and building cinematic user interfaces.*
 
@@ -19,12 +19,12 @@
 
 <br>
 
-## 🎯 2026 Targets & Current Focus
+## 🎯 2026 Vision & Core Focus
 
-- 🧠 **Mastering AI Integrations:** Building seamless fallbacks and streaming responses using state-of-the-art LLMs (like Google Gemini).
-- 🎙️ **Voice-Activated Interfaces:** Developing intelligent, voice-controlled agents for hands-free, futuristic web and desktop experiences.
-- 💻 **Cross-Platform Development:** Expanding web apps into robust native desktop applications.
-- 🎨 **UI/UX Perfection:** Designing premium, dark-themed, "Linear/Vercel" inspired interfaces with glowing elements and smooth micro-animations.
+- 🚀 **Full-Stack Mastery:** Architecting robust, high-performance web applications using the MERN stack with scalable backend logic.
+- 🤖 **Advanced AI Ecosystems:** Integrating next-gen LLMs (like Google Gemini) with seamless fallback strategies, and building interactive, voice-driven AI agents.
+- ⚡ **Cinematic UI/UX Engineering:** Crafting ultra-modern, "Linear-inspired" dark interfaces with glowing aesthetics and fluid, GSAP-powered micro-animations.
+- 🖥️ **Desktop Native Experiences:** Bridging the gap between the browser and the OS by building powerful native desktop tools using technologies like Electron.
 
 <br>
 
@@ -94,5 +94,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#f0b100&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
