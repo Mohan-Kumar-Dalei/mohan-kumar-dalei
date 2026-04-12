@@ -1,9 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Mohan Kumar Dalei
-### 🚀 Full-Stack Developer | 🧠 AI Integration Enthusiast | 🖥️ UI Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&animation=twinkling" width="100%"/>
 
-*Crafting scalable web applications, integrating intelligent AI models, and building cinematic user interfaces. From MERN stack to desktop apps, I love turning complex ideas into sleek, high-performance realities.*
+# Hi 👋, I'm Mohan Kumar Dalei
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN;Building+Cinematic+User+Interfaces;AI+Integration+Enthusiast;Desktop+App+Developer" alt="Typing SVG" /></a>
+
+*Crafting scalable web applications, integrating intelligent AI models, and building cinematic user interfaces.*
 
 <br>
 
@@ -65,15 +68,31 @@
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 Advanced GitHub Analytics
 
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-Dalei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan-Kumar-Dalei&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Kumar-Dalei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 
   <br><br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohan-Kumar-Dalei&theme=tokyonight&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan-Kumar-Dalei&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohan-Kumar-Dalei&theme=tokyonight&bg_color=0D1117" width="48%" />
 
+  <br><br>
+  
+  ### 🐍 Contribution Activity
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohan-Kumar-Dalei/Mohan-Kumar-Dalei/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohan-Kumar-Dalei/Mohan-Kumar-Dalei/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mohan-Kumar-Dalei/Mohan-Kumar-Dalei/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
