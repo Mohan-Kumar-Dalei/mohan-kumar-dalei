@@ -1,10 +1,9 @@
 <div align="center">
 
 # Hi 👋, I'm Mohan Kumar Dalei
-### 🚀 Passionate MERN Stack Developer & UI Enthusiast
+### 🚀 Full-Stack Developer | 🧠 AI Integration Enthusiast | 🖥️ UI Engineer
 
-*Currently building cool things with **React, Node.js, Express.js, & MongoDB**.* <br> 
-*I love bringing creative concepts to life through clean code and ultra-modern interfaces.*
+*Crafting scalable web applications, integrating intelligent AI models, and building cinematic user interfaces. From MERN stack to desktop apps, I love turning complex ideas into sleek, high-performance realities.*
 
 <br>
 
@@ -17,30 +16,40 @@
 
 <br>
 
+## 🎯 2026 Targets & Current Focus
+
+- 🧠 **Mastering AI Integrations:** Building seamless fallbacks and streaming responses using state-of-the-art LLMs (like Google Gemini).
+- 🎙️ **Voice-Activated Interfaces:** Developing intelligent, voice-controlled agents for hands-free, futuristic web and desktop experiences.
+- 💻 **Cross-Platform Development:** Expanding web apps into robust native desktop applications.
+- 🎨 **UI/UX Perfection:** Designing premium, dark-themed, "Linear/Vercel" inspired interfaces with glowing elements and smooth micro-animations.
+
+<br>
+
 ## ⚡ Tech Stack & Tools
 
 <details open>
-<summary><b>👨‍💻 Frontend</b></summary>
+<summary><b>👨‍💻 Frontend & UI</b></summary>
 <br>
   
-[![React](https://skillicons.dev/icons?i=react,tailwind,js,html,css&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind,js,html,css&theme=dark)](https://skillicons.dev)
 <a href="https://greensock.com/gsap/" target="_blank"><img src="https://cdn.simpleicons.org/greensock/88CE02" height="48" style="margin-bottom: 2px" /></a>
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Database</b></summary>
+<summary><b>⚙️ Backend, AI & Database</b></summary>
 <br>
   
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
+*(Actively working with REST APIs, SpeechRecognition, and LLM API integrations)*
 
 </details>
 
 <details open>
-<summary><b>🛠️ Languages & Tools</b></summary>
+<summary><b>🖥️ Desktop & Tools</b></summary>
 <br>
   
-[![Tools](https://skillicons.dev/icons?i=java,git,github,postman,vscode&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=electron,java,git,github,postman,vscode&theme=dark)](https://skillicons.dev)
 
 </details>
 
@@ -50,9 +59,9 @@
 
 | Project | Description |
 | :--- | :--- |
-| **[ApexUI](https://github.com/Mohan-Kumar-Dalei/ApexUI)** | Modern, cinematic UI components built for faster and sleeker web development. |
-| **[AI-Powered-Captioner](https://github.com/Mohan-Kumar-Dalei/AI-Powered-Captioner-Frontend)** | An intelligent AI tool to automatically generate engaging captions from uploaded images. |
-| **[ApexOS](https://github.com/Mohan-Kumar-Dalei/ApexOS)** | A highly customized, OS-like web-based interface pushing the boundaries of browser experiences. |
+| **🤖 [AI-Powered-Captioner](https://github.com/Mohan-Kumar-Dalei/AI-Powered-Captioner-Frontend)** | An intelligent AI tool to automatically generate highly engaging and contextual captions from uploaded images. |
+| **✨ [ApexUI](https://github.com/Mohan-Kumar-Dalei/ApexUI)** | Premium, cinematic UI components featuring glowing borders and smooth hover animations for faster development. |
+| **🌐 [ApexOS](https://github.com/Mohan-Kumar-Dalei/ApexOS)** | A highly customized, OS-like web-based interface pushing the boundaries of browser-based application experiences. |
 
 <br>
 
