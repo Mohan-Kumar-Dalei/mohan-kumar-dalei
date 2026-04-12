@@ -1,102 +1,70 @@
-<h1 align="center">Hi 👋, I'm Mohan Kumar Dalei</h1>
-<h3 align="center">A passionate MERN Stack Developer turning ideas into reality 💻❤️</h3>
+<div align="center">
+
+# Hi 👋, I'm Mohan Kumar Dalei
+### 🚀 Passionate MERN Stack Developer & UI Enthusiast
+
+*Currently building cool things with **React, Node.js, Express.js, & MongoDB**.* <br> 
+*I love bringing creative concepts to life through clean code and ultra-modern interfaces.*
 
 <br>
 
-<p align="center">
-  <em>Currently building cool things with <strong>React, Node.js, Express.js, & MongoDB</strong> and constantly sharpening my skills. I love bringing creative concepts to life through code.</em>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-kumar-dalei)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://mohankumardalei-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohankumardalei2001@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ll_b._.i._.c._.k._.y_ll)
 
----
+</div>
 
-### 🔗 Connect With Me
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohan-kumar-dalei" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://mohankumardalei-portfolio.netlify.app" target="_blank">
-    <img src="https://cdn.simpleicons.org/clubhouse/FFE450" height="40" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mohankumardalei2001@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ll_b._.i._.c._.k._.y_ll" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
-  </a>
-</p>
-</p>
+## ⚡ Tech Stack & Tools
 
+<details open>
+<summary><b>👨‍💻 Frontend</b></summary>
+<br>
+  
+[![React](https://skillicons.dev/icons?i=react,tailwind,js,html,css&theme=dark)](https://skillicons.dev)
+<a href="https://greensock.com/gsap/" target="_blank"><img src="https://cdn.simpleicons.org/greensock/88CE02" height="48" style="margin-bottom: 2px" /></a>
 
----
+</details>
 
-### 🛠️ My Tech Stack
+<details open>
+<summary><b>⚙️ Backend & Database</b></summary>
+<br>
+  
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
 
-### 🎨 Frontend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" height="45" />
-  </a>
-  <a href="https://greensock.com/gsap/" target="_blank">
-    <img src="https://cdn.simpleicons.org/greensock/88CE02" height="45" />
-  </a>
-</p>
+</details>
 
----
+<details open>
+<summary><b>🛠️ Languages & Tools</b></summary>
+<br>
+  
+[![Tools](https://skillicons.dev/icons?i=java,git,github,postman,vscode&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Backend & Database
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="45" />
-  </a>
-</p>
+</details>
 
----
+<br>
 
-### 💻 Languages
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" height="45" />
-  </a>
-</p>
+## 🚀 Pinned Projects
 
----
+| Project | Description |
+| :--- | :--- |
+| **[ApexUI](https://github.com/Mohan-Kumar-Dalei/ApexUI)** | Modern, cinematic UI components built for faster and sleeker web development. |
+| **[AI-Powered-Captioner](https://github.com/Mohan-Kumar-Dalei/AI-Powered-Captioner-Frontend)** | An intelligent AI tool to automatically generate engaging captions from uploaded images. |
+| **[ApexOS](https://github.com/Mohan-Kumar-Dalei/ApexOS)** | A highly customized, OS-like web-based interface pushing the boundaries of browser experiences. |
 
-### 🛠️ Tools & Platforms
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" height="45" />
-  </a>
-</p>
+<br>
 
----
+## 📊 GitHub Analytics
 
-### 🚀 Pinned Projects
+<div align="center">
 
--   **[ApexUI](https://github.com/Mohan-Kumar-Dalei/ApexUI)** – Modern UI components for faster development.
--   **[AI-Powered-Captioner-Frontend](https://github.com/Mohan-Kumar-Dalei/AI-Powered-Captioner-Frontend)** – An AI tool to generate captions from uploaded images.
--   **[ApexOS](https://github.com/Mohan-Kumar-Dalei/ApexOS)** – A custom OS-like web-based interface project.
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-Dalei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan-Kumar-Dalei&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 
----
+  <br><br>
 
-### 📊 My GitHub Stats & Achievements
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohan-Kumar-Dalei&theme=tokyonight&bg_color=0D1117" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-Dalei&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan-Kumar-Dalei&theme=radical&hide_border=true" height="170em" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohan-Kumar-Dalei&theme=radical" />
-</p>
-
----
-
-### ✨ My Favorite Quote
-
-<p align="center">
-  > <em>“Code is not a riddle 🤔, it feels better when you can explain it clearly 🗣️💡”</em>
-</p>
+</div>
