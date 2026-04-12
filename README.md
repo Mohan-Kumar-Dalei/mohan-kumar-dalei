@@ -72,8 +72,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-Dalei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Kumar-Dalei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-Dalei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Kumar-Dalei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
 
   <br><br>
 
